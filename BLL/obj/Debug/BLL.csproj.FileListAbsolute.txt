@@ -1,0 +1,9 @@
+C:\Users\A\Desktop\9and10\MyApp\BLL\bin\Debug\BLL.dll
+C:\Users\A\Desktop\9and10\MyApp\BLL\bin\Debug\BLL.pdb
+C:\Users\A\Desktop\9and10\MyApp\BLL\bin\Debug\DAL.dll
+C:\Users\A\Desktop\9and10\MyApp\BLL\bin\Debug\DAL.pdb
+C:\Users\A\Desktop\9and10\MyApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\9and10\MyApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\9and10\MyApp\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\A\Desktop\9and10\MyApp\BLL\obj\Debug\BLL.dll
+C:\Users\A\Desktop\9and10\MyApp\BLL\obj\Debug\BLL.pdb
